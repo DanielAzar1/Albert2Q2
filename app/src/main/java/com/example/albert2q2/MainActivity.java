@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void lol(View view) {
         clickNum++;
-        btn.setText("this is click number"+clickNum);
+        btn.setText("this is click number "+clickNum);
 
     }
 }
